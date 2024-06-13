@@ -1,6 +1,6 @@
 version: '3'
 services:
   nginx:
-    image: blueming95/docker-cicd:202406131031
+    image: blueming95/docker-cicd:202406131052
     ports:
       - "8080:80"
